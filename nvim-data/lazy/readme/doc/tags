@@ -1,0 +1,46 @@
+!_TAG_FILE_ENCODING	utf-8	//
+cmp_luasnip-cmp-luasnip	cmp_luasnip.md	/# cmp_luasnip
+friendly-snippets-add-snippets-from-a-framework-to-a-filetype	friendly-snippets.md	/## Add snippets from a framework to a filetype.
+friendly-snippets-credits	friendly-snippets.md	/## Credits
+friendly-snippets-excluding-snippets	friendly-snippets.md	/## Excluding snippets
+friendly-snippets-friendly-snippets	friendly-snippets.md	/# Friendly Snippets
+friendly-snippets-html	friendly-snippets.md	/### HTML
+friendly-snippets-install	friendly-snippets.md	/## Install
+friendly-snippets-js	friendly-snippets.md	/### JS
+friendly-snippets-showcase	friendly-snippets.md	/## Showcase
+friendly-snippets-thanks-to-all-contributors	friendly-snippets.md	/## Thanks to all contributors
+friendly-snippets-todo	friendly-snippets.md	/## TODO
+friendly-snippets-usage	friendly-snippets.md	/## Usage
+friendly-snippets-with-coc-nvim	friendly-snippets.md	/### With coc.nvim
+friendly-snippets-with-lazy-nvim	friendly-snippets.md	/### With Lazy.nvim
+friendly-snippets-with-packer	friendly-snippets.md	/### With Packer
+friendly-snippets-with-vim-plug	friendly-snippets.md	/### With vim-plug
+mason-nvim-dap.nvim-advanced-customization	mason-nvim-dap.nvim.md	/### Advanced Customization
+mason-nvim-dap.nvim-available-dap-adapters	mason-nvim-dap.nvim.md	/# Available Dap Adapters
+mason-nvim-dap.nvim-basic-customization	mason-nvim-dap.nvim.md	/### Basic Customization
+mason-nvim-dap.nvim-commands	mason-nvim-dap.nvim.md	/# Commands
+mason-nvim-dap.nvim-configuration	mason-nvim-dap.nvim.md	/# Configuration
+mason-nvim-dap.nvim-default-configuration	mason-nvim-dap.nvim.md	/## Default configuration
+mason-nvim-dap.nvim-handlers-usage-automatic-setup	mason-nvim-dap.nvim.md	/# Handlers usage (Automatic Setup)
+mason-nvim-dap.nvim-installation	mason-nvim-dap.nvim.md	/# Installation
+mason-nvim-dap.nvim-introduction	mason-nvim-dap.nvim.md	/# Introduction
+mason-nvim-dap.nvim-lazy-https-github-com-folke-lazy-nvim	mason-nvim-dap.nvim.md	/## \[Lazy\](https:\/\/github.com\/folke\/lazy.nvim)
+mason-nvim-dap.nvim-packer-https-github-com-wbthomason-packer-nvim	mason-nvim-dap.nvim.md	/## \[Packer\](https:\/\/github.com\/wbthomason\/packer.nvim)
+mason-nvim-dap.nvim-requirements	mason-nvim-dap.nvim.md	/# Requirements
+mason-nvim-dap.nvim-setup	mason-nvim-dap.nvim.md	/# Setup
+mason-nvim-dap.nvim-star-history	mason-nvim-dap.nvim.md	/## Star History
+onedark.nvim-change-default-style	onedark.nvim.md	/### Change default style
+onedark.nvim-configuration	onedark.nvim.md	/## Configuration
+onedark.nvim-contributing	onedark.nvim.md	/## Contributing
+onedark.nvim-customization	onedark.nvim.md	/## Customization
+onedark.nvim-default-configuration	onedark.nvim.md	/## Default Configuration
+onedark.nvim-enable-lualine	onedark.nvim.md	/### Enable lualine
+onedark.nvim-enable-theme	onedark.nvim.md	/### Enable theme
+onedark.nvim-features	onedark.nvim.md	/### Features
+onedark.nvim-installation	onedark.nvim.md	/## Installation
+onedark.nvim-license	onedark.nvim.md	/## License
+onedark.nvim-plugins-configuration	onedark.nvim.md	/## Plugins Configuration
+onedark.nvim-plugins-supported	onedark.nvim.md	/## Plugins Supported
+onedark.nvim-reference	onedark.nvim.md	/## Reference
+onedark.nvim-themes	onedark.nvim.md	/## Themes
+onedark.nvim-vimscript-configuration	onedark.nvim.md	/### Vimscript configuration

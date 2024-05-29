@@ -1,0 +1,1 @@
+{"primary_source":{"source":{"version":"7.0.0","pip":{"upgrade":false,"extra_args":[]},"package":"flake8"},"id":"pkg:pypi\/flake8@7.0.0","type":"registry+v1"},"metrics":{"completion_time":1705603489657,"start_time":1705603468626},"name":"flake8","secondary_sources":[],"schema_version":"1.1","links":{"opt":{},"bin":{"flake8.cmd":"venv\\Scripts\\flake8.exe"},"share":{}}}

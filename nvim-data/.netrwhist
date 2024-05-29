@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='C:/Users/cppwind/Code/continuous-collection/src/continuous_collection_eeccher/etc'
+let g:netrw_dirhist_3='C:/Users/cppwind/Code/continuous-collection/src/continuous_collection_eeccher/lib'
+let g:netrw_dirhist_2='C:/Users/cppwind/Code/continuous-collection/src/continuous_collection_eeccher/spec'
+let g:netrw_dirhist_1='C:/Users/cppwind/Code/continuous-collection/src/continuous_collection_eeccher'
+let g:netrw_dirhist_0='C:/Users/cppwind/Code/continuous-collection/src'
+let g:netrw_dirhist_9='C:/Users/cppwind/Code/continuous-collection'
+let g:netrw_dirhist_8='C:/Users/cppwind/Code'
+let g:netrw_dirhist_7='C:/Users/cppwind/Code/continuous-collection/src/continuous_collection_eeccher/etc'
+let g:netrw_dirhist_6='C:/Users/cppwind/Code/continuous-collection/src/continuous_collection_eeccher/spec'
+let g:netrw_dirhist_5='C:/Users/cppwind/Code/continuous-collection/src/continuous_collection_eeccher/lib'
